@@ -7,8 +7,11 @@ html {
 }
 h3 {
     text-align: center;
+    margin: 0;
+    margin-top: 10px;
 }
 p {
   color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
