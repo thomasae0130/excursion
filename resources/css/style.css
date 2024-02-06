@@ -9,9 +9,22 @@ h3 {
     text-align: center;
     margin: 0;
     margin-top: 10px;
+    font-size: 42px;
+    font-weight: 300;
 }
 p {
   color: aquamarine;
   font-size: 16px;
   text-decoration: underline;
+}
+h5 {
+  font-size: 21px;
+}
+.photos {
+  display: grid;
+  justify-content: center;
+}
+.photo {
+  justify-content: center;
+  margin-top: 20px;
 }
