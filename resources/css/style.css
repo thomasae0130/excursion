@@ -28,3 +28,8 @@ h5 {
   justify-content: center;
   margin-top: 20px;
 }
+#copy-right {
+  color: gray;
+  text-decoration: none;
+  text-align: right;
+}
